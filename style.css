@@ -1,0 +1,16 @@
+h1, h2, h3, h4, h5, a, button {
+  font-family: Verdana;
+  color: #FFFFFF;
+}
+
+body {
+  text-align: center;
+  background-color: #88aaff;
+}
+
+button {
+  border-radius: 4px;
+  border: none;
+  background-color: #0000ff;
+  color: #FFFFFF;
+}
